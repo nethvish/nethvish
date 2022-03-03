@@ -1,5 +1,6 @@
 ### Hi there, I'm Nethum Vishwadinu 👋
 
+### I'm a Web Designer, Software Developer, Youtuber and a Tech Geek!!!
 <!--
 **nethvish/nethvish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
