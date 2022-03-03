@@ -1,6 +1,8 @@
 ### Hi there, I'm Nethum Vishwadinu 👋
 
 ### I'm a Web Designer, Software Developer, Youtuber and a Tech Geek!!!
+
+* 🎓 I am a Data Science undergraduate at Sri Lanka Institute of Information Technology
 <!--
 **nethvish/nethvish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
